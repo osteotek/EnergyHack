@@ -2,80 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a0eafca-bb57-4f1f-a508-4511af3f231a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/light-bootstrap-dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/pe-icon-7-stroke.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/default-avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/face-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/face-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/face-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/face-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/face-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/face-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/face-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/face-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/faces/tim_vector.jpe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/full-screen-image-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/loading-bubbles.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap-notify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/chartist.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/light-bootstrap-dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_checkbox-radio-switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_footers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_misc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_responsive.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_sidebar-and-main-panel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_chartist.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_inputs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_morphing-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_social-buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_tabs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_transparency.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/lbd/mixins/_vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/light-bootstrap-dashboard.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.eslintrc.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/containers/Dashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/containers/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/css/documentation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentation/tutorial-components.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fe_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/mocks/fe_data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fe_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/fe_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepare_data.json.py" beforeDir="false" afterPath="$PROJECT_DIR$/prepare_data.json.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -101,8 +31,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="17">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -335,12 +265,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518949726752</updated>
       <workItem from="1518949728048" duration="2179000" />
-      <workItem from="1518953480378" duration="5455000" />
+      <workItem from="1518953480378" duration="5482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7634000" />
+    <option name="totallyTimeSpent" value="7661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -590,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>

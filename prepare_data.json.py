@@ -28,7 +28,7 @@ def get_last(delta):
 
 
 if __name__ == '__main__':
-    BALANCE = 10000
+    BALANCE = 510000
     household_filename = os.path.join('data', os.path.join('consumption_household', 'sensor_2000_events.csv'))
     df_household = read_data(household_filename, timeformat='%Y-%m-%dT%H:%M:%S')
 
@@ -47,7 +47,8 @@ if __name__ == '__main__':
             'crypto_balance': BALANCE,
             'last_crypto_change': last_crypto
         }
-        data.append(res)
+        if energy > 0:
+            data.append(res)
 
     with open('new.json', 'w') as fh:
         json.dump(data, fh)
