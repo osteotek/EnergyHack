@@ -47,7 +47,8 @@ if __name__ == '__main__':
             'crypto_balance': BALANCE,
             'last_crypto_change': last_crypto
         }
-        data.append(res)
+        if delta:
+            data.append(res)
 
     with open('new.json', 'w') as fh:
         json.dump(data, fh)
